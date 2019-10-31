@@ -1,0 +1,6 @@
+
+test "Jarra" {
+	jarra1 = new Jarra()
+	assert.that(true)
+
+}
